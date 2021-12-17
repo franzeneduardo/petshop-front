@@ -1,0 +1,12 @@
+{
+  "name": "petshop-front",
+  "version": "1.0.0",
+  "description": "Frontend to Petshop",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^10.0.1"
+  },
+  "author": "Gilberto Lupatini"
+}
